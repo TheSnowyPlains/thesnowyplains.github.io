@@ -1,0 +1,9 @@
+{
+  "subject": "acct:ldd@milcicada.cc",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://tailscale-rrtaiv.eu1.zitadel.cloud"
+    }
+  ]
+}
